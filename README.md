@@ -1,0 +1,2 @@
+# Studybud
+Studybud Django tutorial
